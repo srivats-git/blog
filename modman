@@ -1,0 +1,4 @@
+#Blog Module
+
+Dzinehub_Blog.xml	app/etc/modules/Dzinehub_Blog.xml
+code/	app/code/local/Dzinehub/Blog
